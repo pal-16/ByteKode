@@ -1,0 +1,48 @@
+{
+  "name": "bytekode-alpha",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.2.6",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@fontsource/hammersmith-one": "^4.5.8",
+    "@fontsource/outfit": "^4.5.9",
+    "@fontsource/spartan": "^4.5.8",
+    "@stripe/stripe-js": "^1.35.0",
+    "@supabase/supabase-js": "^1.35.6",
+    "@types/react-lottie": "^1.2.6",
+    "axios": "^0.27.2",
+    "ethers": "^5.6.9",
+    "formik": "^2.2.9",
+    "framer-motion": "^6",
+    "ip": "^1.1.8",
+    "next": "12.2.5",
+    "openai": "^3.0.0",
+    "react": "18.2.0",
+    "react-calendly": "^4.0.1",
+    "react-dom": "18.2.0",
+    "react-google-recaptcha": "^2.1.0",
+    "react-icons": "^4.4.0",
+    "react-lottie": "^1.2.3",
+    "react-query": "^3.39.2",
+    "stripe": "^10.7.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/ip": "^1.1.0",
+    "@types/node": "18.7.2",
+    "@types/react": "18.0.17",
+    "@types/react-dom": "18.0.6",
+    "@types/react-google-recaptcha": "^2.1.5",
+    "eslint": "8.21.0",
+    "eslint-config-next": "12.2.5",
+    "typescript": "4.7.4"
+  }
+}
